@@ -3584,7 +3584,7 @@ body {
   color: #767676 !important;
 }
 .cid-rnfNWGI1CB {
-  background-image: url("../../../assets/images/background1.jpg");
+  background-image: url("../../../assets/images/hospital-3-960x540.jpg");
 }
 .cid-rnfNWGI1CB .icons-media-container {
   display: flex;
@@ -3608,6 +3608,39 @@ body {
 }
 .cid-rnfNWGI1CB .card {
   padding-bottom: 1.5rem;
+}
+.cid-roznjntAhX {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-roznjntAhX .counter-container {
+  color: #767676;
+}
+.cid-roznjntAhX .counter-container ul {
+  margin-bottom: 0;
+}
+.cid-roznjntAhX .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
+}
+.cid-roznjntAhX .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #149dcc;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  content: '✓';
 }
 .cid-rnfNSyd7sA {
   padding-top: 60px;
@@ -4242,6 +4275,46 @@ body {
 }
 .cid-rmAVh4I2sQ foot-menu-item {
   text-align: right;
+}
+.cid-rozhPqo4Xx {
+  padding-top: 120px;
+  padding-bottom: 75px;
+  background-image: url("../../../assets/images/hospital-5-390x285.jpg");
+}
+.cid-rozhPqo4Xx H2 {
+  color: #149dcc;
+}
+.cid-rozhQLw51O {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rozhQLw51O .counter-container {
+  color: #767676;
+}
+.cid-rozhQLw51O .counter-container ul {
+  margin-bottom: 0;
+}
+.cid-rozhQLw51O .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
+}
+.cid-rozhQLw51O .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #1485cc;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
 }
 .cid-rmAMUxsK9K .navbar {
   background: #ffffff;
