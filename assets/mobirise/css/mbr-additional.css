@@ -1966,7 +1966,7 @@ body {
   background-color: #149dcc;
 }
 .cid-rmAVccANoZ .mbr-section-subtitle {
-  color: #e4d295;
+  color: #232323;
 }
 .cid-rmAVccANoZ .btn {
   margin: 0 0 .5rem 0;
@@ -1975,7 +1975,7 @@ body {
   color: #c1c1c1;
 }
 .cid-rmAVccANoZ SPAN {
-  color: #cebfaf;
+  color: #cccccc;
 }
 .cid-rmAMUxsK9K .navbar {
   background: #ffffff;
@@ -2391,7 +2391,7 @@ body {
   height: 64px;
   font-size: 32px;
   border-radius: 50%;
-  border: 2px solid #efefef;
+  border: 2px solid #1485cc;
 }
 @media (max-width: 767px) {
   .cid-rmASf3T9FB .step {
@@ -2410,7 +2410,7 @@ body {
   content: "";
   width: 2px;
   height: calc(100% - (32px + 4px) * 2);
-  background-color: #efefef;
+  background-color: #1485cc;
 }
 @media (max-width: 767px) {
   .cid-rmASf3T9FB .separline:after {
